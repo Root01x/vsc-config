@@ -8,7 +8,7 @@
     "editor.fontLigatures": true,
     "terminal.integrated.fontLigatures.enabled": true,
     "chat.viewSessions.orientation": "stacked",
-    "editor.fontSize": 16,
+    "editor.fontSize": 14,
     "workbench.colorCustomizations": {
         //"editor.background": "#00000000"
         "statusBar.background": "#181616",
@@ -28,7 +28,7 @@
         "tab.inactiveBackground": "#181616",
         "tab.border": "#181616",
         "editorGroupHeader.tabsBackground": "#181616",
-        "editorGroupHeader.noTabsBackground": "#181616",
+        "editorGroupHeader.noTabsBackground": "#181616"
     },
     "glassit.alpha": 250,
     "workbench.navigationControl.enabled": false,
@@ -37,5 +37,5 @@
     "window.menuBarVisibility": "compact",
     "editor.minimap.enabled": false,
     "workbench.layoutControl.enabled": true,
-    "workbench.editor.editorActionsLocation": "titleBar",
+    "workbench.editor.editorActionsLocation": "titleBar"
 }

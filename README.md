@@ -113,7 +113,7 @@ git push
 ## Requisitos
 
 - Visual Studio Code v1.80 o superior
-- Fuente JetBrains Mono instalada en el sistema
+- Fuente JetBrains Mono instalada en el sistema ([Descargar aquí](https://www.jetbrains.com/lp/mono/))
 - Extensiones listadas en [extensions.txt](extensions.txt)
 
 ## Licencia
